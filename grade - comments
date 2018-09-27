@@ -1,0 +1,16 @@
+Mia Burch
+
+Assignment:  Number Class
+Grade:  check-  (See Course Expectations for interpretation)
+
+1 – Your header file does not have the instance methods that you need.  I needed to uncomment your apparent method section, add return types, and rename some.
+
+2 – Your isEven and other isSomething methods should have a Boolean return type, not print out an answer.
+
+3 – Your isPrime method does not work.  You need to stop as soon as you detect it is divisible by number.
+
+4 – in isPerfectSquare use break instead of i = num;
+
+5 – Use more explanatory variable names
+
+6 – Your nearestPerfectSquare does not work.  It should be much simpler.  Just start at the number and work your way down until you find a perfect square.  Nearest perfect square could call an isPerfectSquare method
